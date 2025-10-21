@@ -1,6 +1,25 @@
+## Hi there 👋
 ![Header](./HeaderPic.jpeg)
 
-## Hi there 👋
+
+name: Alima Nur Begimbaeva
+located_in: Hong Kong 
+current_job: Data and Research Intern
+education:
+"Bachelor's of Science in Data Science",
+"Minor in Environmentall and Scientific Literacy",
+company: CantoNet Cultured Ltd
+
+fields_of interests:
+"Data Science",
+"Machine Learning",
+"Data Analysis",
+"Data Mining",
+"Big Data",
+
+technical_background:
+"Operations Intern - Soap Cycling,
+"Data and Research Intern - CantoNet Cultured Ltd",
 
 <!--
 **alimanbg/alimanbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
