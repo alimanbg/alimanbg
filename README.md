@@ -1,6 +1,6 @@
-<p align="center">
+
   ![Header](./HeaderPic.jpeg)
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Alima!</h1>
 <h3 align="center">A soon-to-graduate Data Science student based in Hong Kong 🇭🇰</h3>
