@@ -55,5 +55,5 @@
 
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
-  I speak **7 languages**, both human and programming!
+  I speak *7 languages*, excluding programming!
 </p>
