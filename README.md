@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="./HeaderPic.jpeg" alt="Header" width="600" />
+</p>
 
-  ![Header](./HeaderPic.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Alima!</h1>
