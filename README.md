@@ -1,8 +1,8 @@
 ![Header](./HeaderPic.jpeg)
 
 
-<h1 align="center">Hi 👋, I'm Alima!</h1>
-<h3 align="center">A soon to graduate Data Science student in Hong Kong!</h3>
+<h1>Hi 👋, I'm Alima!</h1>
+<h3>A soon to graduate Data Science student in Hong Kong!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/alimanbg](https://github.com/alimanbg)
 
