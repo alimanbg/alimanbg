@@ -10,7 +10,7 @@
 <p align="center">
   🎓 Passionate about turning data into actionable insights<br>
   💻 Building machine learning projects and analytical dashboards<br>
-  🌱 Currently exploring NLP and recommendation systems
+  🌱 Currently exploring Clouds and doing research in Meat Consumption
 </p>
 
 <hr>
