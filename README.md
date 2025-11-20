@@ -13,31 +13,34 @@
 
 <hr> 
 
-<h3 align="center">📂 Key Projects</h3> 
+<hr>
 
-<p align="center"> 
-  <a href="https://github.com/alimanbg/Phone-Directory-Management-System" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Phone-Directory-Management-System&theme=dracula" alt="Phone Directory Management System" /> 
-  </a> 
-  <br> 
-  <em>Developed a Phone Directory Management System using linked lists for efficient contact management. Features include inserting, deleting, searching, and displaying contacts in sorted order with optimized performance.</em> 
+<h3 align="center">📂 Key Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/alimanbg/Reddit-Vaccine-Myths" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Reddit-Vaccine-Myths&theme=dracula" alt="Reddit Vaccine Myths Echo Chambers" />
+  </a>
+  <br>
+  <em>Analyzed echo chamber formation and misinformation in Reddit’s r/VaccineMyths community using Python (pandas, networkx, VADER, LDA). Visualized network structures and modeled group sentiment dynamics.</em>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/alimanbg/Banking-Application" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Banking-Application&theme=dracula" alt="Banking Application" /> 
-  </a> 
-  <br> 
-  <em>Group project designing a database for ZA Bank, Hong Kong's first fully licensed digital bank. Developed ER models, normalized schema, and SQL scripts for banking functions including transactions and account management.</em> 
+<p align="center">
+  <a href="https://github.com/alimanbg/Meat-Consumption-Kyrgyzstan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Meat-Consumption-Kyrgyzstan&theme=dracula" alt="Meat Consumption Kyrgyzstan" />
+  </a>
+  <br>
+  <em>Capstone research on meat consumption and sustainability in Kyrgyzstan. Applied mixed-method survey analysis (n=51), statistics, and data visualization in Python for insights into traditional and sustainable practices.</em>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/alimanbg/KNIME-Project" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=KNIME-Project&theme=dracula" alt="KNIME Project" /> 
-  </a> 
-  <br> 
-  <em>AI project using KNIME to build and compare Decision Tree, Gradient Boosted Tree, Random Forest, and Naïve Bayes classifiers. Naïve Bayes achieved 76.6% accuracy; gained practical ML workflow experience in KNIME.</em> 
+<p align="center">
+  <a href="https://github.com/alimanbg/Banking-Application" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Banking-Application&theme=dracula" alt="ZA Bank Application" />
+  </a>
+  <br>
+  <em>Group project to design a normalized SQL database for Hong Kong’s first digital bank (ZA Bank), featuring ER models and scripts supporting account management, transactions, and user security.</em>
 </p>
+
 
 <hr> 
 
