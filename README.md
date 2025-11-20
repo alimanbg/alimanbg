@@ -7,13 +7,12 @@
 
 <p align="center"> 
   🎓 I transform complex data into clear, actionable insights<br> 
-  💻 Experienced in building predictive models, data visualizations, and analytical dashboards<br> 
+  💻 Have experiences in building predictive models, data visualizations, and analytical dashboards<br> 
   🌱 Currently researching consumer behavior and exploring cloud computing solutions 
 </p> 
 
 <hr> 
 
-<hr>
 
 <h3 align="center">📂 Key Projects</h3>
 
