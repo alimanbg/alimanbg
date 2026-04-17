@@ -13,8 +13,15 @@
 
 <hr> 
 
-
 <h3 align="center">📂 Key Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/alimanbg/mixingo" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=mixingo&theme=dracula" alt="mixingo" />
+  </a>
+  <br>
+  <em>🏆 Hackathon project – Full-stack AI study tool (Next.js, FastAPI, GPT-4o-mini) that reduces redundant learning by 32% by dynamically generating personalized quizzes.</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/alimanbg/Reddit-Vaccine-Myths" target="_blank">
@@ -25,6 +32,18 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/alimanbg/LinkGen" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=LinkGen&theme=dracula" alt="LinkGen" />
+  </a>
+  <br>
+  <em>React Native + Firebase mobile app to combat elderly loneliness in Hong Kong. Features role-based access, chat, events, and full i18n (EN, ZH, Tagalog).</em>
+</p>
+
+<hr>
+
+<h3 align="center">📊 Academic Research</h3>
+
+<p align="center">
   <a href="https://github.com/alimanbg/Meat-Consumption-Kyrgyzstan" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Meat-Consumption-Kyrgyzstan&theme=dracula" alt="Meat Consumption Kyrgyzstan" />
   </a>
@@ -32,14 +51,17 @@
   <em>Capstone research on meat consumption and sustainability in Kyrgyzstan. Applied mixed-method survey analysis (n=51), statistics, and data visualization in Python for insights into traditional and sustainable practices.</em>
 </p>
 
+<hr>
+
+<h3 align="center">🔧 Other Projects</h3>
+
 <p align="center">
-  <a href="https://github.com/alimanbg/Banking-Application" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Banking-Application&theme=dracula" alt="ZA Bank Application" />
+  <a href="https://github.com/alimanbg/StudySwap" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=StudySwap&theme=dracula" alt="StudySwap" />
   </a>
   <br>
-  <em>Group project to design a normalized SQL database for Hong Kong’s first digital bank (ZA Bank), featuring ER models and scripts supporting account management, transactions, and user security.</em>
+  <em>Full-stack web app (PHP, MySQL) for students to exchange study resources and book tutoring sessions. Demonstrates basic CRUD, authentication, and database design.</em>
 </p>
-
 
 <hr> 
 
@@ -64,13 +86,18 @@
   <a href="https://linkedin.com/in/alimanurbegimbaeva">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
   
-  <a href="mailto:alimanurb@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a> </p> <hr> <h3 align="center">
-  📊 GitHub Stats and Activity</h3> 
-  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=alimanbg&show_icons=true&theme=dracula&hide_border=true" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimanbg&theme=dracula&hide_border=true" /> 
-  </p> 
-  
-  <hr> 
-  
-  <h3 align="center">⚡ Fun Fact</h3> <p align="center"> I speak <em>7 languages</em>—and I’m fluent in the language of data, too! </p>
+  <a href="mailto:alimanurb@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a> 
+</p> 
+
+<hr> 
+
+<h3 align="center">📊 GitHub Stats and Activity</h3> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alimanbg&show_icons=true&theme=dracula&hide_border=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimanbg&theme=dracula&hide_border=true" /> 
+</p> 
+
+<hr> 
+
+<h3 align="center">⚡ Fun Fact</h3> 
+<p align="center"> I speak <em>7 languages</em>—and I’m fluent in the language of data, too! </p>
