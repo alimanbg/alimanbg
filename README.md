@@ -2,96 +2,86 @@
   <img src="./HeaderPic.jpeg" alt="Header" width="600" /> 
 </p> 
 
-<h1 align="center"> Hi 👋, I'm Alima!</h1> 
-<h3 align="center">Soon-to-graduate Data Science student passionate about analytics and machine learning, based in Hong Kong 🇭🇰</h3> 
+<h1 align="center">Hi, I'm Alima</h1> 
+<h3 align="center">Data Science student (graduating soon) based in Hong Kong. I work on analytics, machine learning, and building things that actually help people.</h3> 
 
 <p align="center"> 
-  🎓 I transform complex data into clear, actionable insights<br> 
-  💻 Have experiences in building predictive models, data visualizations, and analytical dashboards<br> 
-  🌱 Currently researching consumer behavior and exploring cloud computing solutions 
+  I turn messy data into clear answers.<br> 
+  I've built predictive models, dashboards, and tools for real decisions.<br> 
+  Right now I'm looking at consumer behavior and learning cloud stuff.
 </p> 
 
 <hr> 
 
-<h3 align="center">📂 Key Projects</h3>
+<h3 align="center">Projects I'm most proud of</h3>
 
 <p align="center">
   <a href="https://github.com/alimanbg/mixingo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=mixingo&theme=dracula" alt="mixingo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=mixingo&theme=dracula" />
   </a>
   <br>
-  <em>🏆 Hackathon project – Full-stack AI study tool (Next.js, FastAPI, GPT-4o-mini) that reduces redundant learning by 32% by dynamically generating personalized quizzes.</em>
+  <strong>mixingo</strong> – hackathon project. A full‑stack AI study tool (Next.js, FastAPI, GPT‑4o‑mini) that cuts redundant studying by 32%. Generates quizzes on the fly.
 </p>
 
 <p align="center">
   <a href="https://github.com/alimanbg/Reddit-Vaccine-Myths" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Reddit-Vaccine-Myths&theme=dracula" alt="Reddit Vaccine Myths Echo Chambers" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Reddit-Vaccine-Myths&theme=dracula" />
   </a>
   <br>
-  <em>Analyzed echo chamber formation and misinformation in Reddit’s r/VaccineMyths community using Python (pandas, networkx, VADER, LDA). Visualized network structures and modeled group sentiment dynamics.</em>
+  <strong>Reddit vaccine myths</strong> – used Python (pandas, networkx, VADER, LDA) to study echo chambers and misinformation. Mapped network structures and group sentiment.
 </p>
 
 <p align="center">
   <a href="https://github.com/alimanbg/LinkGen" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=LinkGen&theme=dracula" alt="LinkGen" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=LinkGen&theme=dracula" />
   </a>
   <br>
-  <em>React Native + Firebase mobile app to combat elderly loneliness in Hong Kong. Features role-based access, chat, events, and full i18n (EN, ZH, Tagalog).</em>
+  <strong>LinkGen</strong> – React Native + Firebase app to reduce loneliness among elderly people in Hong Kong. Role‑based access, chat, events, and three languages (English, Chinese, Tagalog).
 </p>
 
 <hr>
 
-<h3 align="center">📊 Academic Research</h3>
+<h3 align="center">Academic research</h3>
 
 <p align="center">
   <a href="https://github.com/alimanbg/Meat-Consumption-Kyrgyzstan" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Meat-Consumption-Kyrgyzstan&theme=dracula" alt="Meat Consumption Kyrgyzstan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=Meat-Consumption-Kyrgyzstan&theme=dracula" />
   </a>
   <br>
-  <em>Capstone research on meat consumption and sustainability in Kyrgyzstan. Applied mixed-method survey analysis (n=51), statistics, and data visualization in Python for insights into traditional and sustainable practices.</em>
+  <strong>Meat consumption in Kyrgyzstan</strong> – capstone research with a mixed‑method survey (n=51). Statistics and visualisation in Python. Looked at traditional vs sustainable practices.
 </p>
 
 <hr>
 
-<h3 align="center">🔧 Other Projects</h3>
+<h3 align="center">Other stuff I built</h3>
 
 <p align="center">
   <a href="https://github.com/alimanbg/StudySwap" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=StudySwap&theme=dracula" alt="StudySwap" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimanbg&repo=StudySwap&theme=dracula" />
   </a>
   <br>
-  <em>Full-stack web app (PHP, MySQL) for students to exchange study resources and book tutoring sessions. Demonstrates basic CRUD, authentication, and database design.</em>
+  <strong>StudySwap</strong> – PHP + MySQL web app for students to share resources and book tutoring. Basic authentication, CRUD, database design.
 </p>
 
 <hr> 
 
-<h3 align="center">🧰 Languages and Tools</h3> 
+<h3 align="center">Languages and tools I use regularly</h3> 
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a> 
-  <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" /></a> 
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a> 
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a> 
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" /></a> 
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a> 
-  <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> 
-  <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" /></a> 
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a> 
-</p> 
+  Python, R, MySQL, Pandas, Scikit‑Learn, TensorFlow, Google Cloud, Tableau, Java
+</p>
 
 <hr>
 
-<h3 align="center">🌐 Connect with Me</h3> 
+<h3 align="center">Find me elsewhere</h3> 
 <p align="center"> 
-  <a href="https://linkedin.com/in/alimanurbegimbaeva">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
-  
-  <a href="mailto:alimanurb@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a> 
+  <a href="https://linkedin.com/in/alimanurbegimbaeva">LinkedIn</a>   |   
+  <a href="mailto:alimanurb@gmail.com">Email</a>
 </p> 
 
 <hr> 
 
-<h3 align="center">📊 GitHub Stats and Activity</h3> 
+<h3 align="center">GitHub stats (if you care about that sort of thing)</h3> 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=alimanbg&show_icons=true&theme=dracula&hide_border=true" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimanbg&theme=dracula&hide_border=true" /> 
@@ -99,5 +89,5 @@
 
 <hr> 
 
-<h3 align="center">⚡ Fun Fact</h3> 
-<p align="center"> I speak <em>7 languages</em>—and I’m fluent in the language of data, too! </p>
+<h3 align="center">A random fact</h3> 
+<p align="center"> I speak seven human languages. Data is the eighth.</p>
